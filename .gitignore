@@ -1,0 +1,16 @@
+# Explicitly allow YAML and JSON files (used for frontmatter / CMS content).
+# These negations are listed first; the specific Obsidian ignores below are listed
+# last and therefore take final precedence over these negations for their exact paths.
+!**/*.yaml
+!**/*.yml
+!**/*.json
+
+# Obsidian state — workspace layout and cache are machine-specific and should not be tracked.
+# Listed after the negation rules above so Git applies these as the winning (last) rule.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
