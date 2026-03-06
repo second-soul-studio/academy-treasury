@@ -1,12 +1,12 @@
 ---
-title: Untitled
-description: ""
+title: ChatGPT - How I work
+description: ChatGPT explains itself to curious humans
 tags: []
-author:
+author: Chris Tidesson / ChatGPT
 date_created: 2026-03-06
 date_updated: 2026-03-06
 featured: false
-status: draft
+status: published
 ---
 
 (Written by ChatGPT 5.2)
