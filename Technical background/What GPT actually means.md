@@ -1,5 +1,5 @@
 ---
-title: What "GPT" actually means
+title: What GPT actually means
 description: A technical view on why we call our current AI "Generative Pre-trained Transformers"
 tags: []
 author: Chris Tidesson / ChatGPT
