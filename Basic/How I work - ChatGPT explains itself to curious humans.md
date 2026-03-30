@@ -8,7 +8,6 @@ date_updated: 2026-03-06
 featured: false
 status: published
 ---
-
 (Written by ChatGPT 5.2)
 
 ## How I work – explained for curious humans
