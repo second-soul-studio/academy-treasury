@@ -207,17 +207,17 @@ Even if the front-facing platform feels personal, friendly, or “small,” your
 In other words, the migration tool itself may not be the only place your data goes.
 
 ### NanoGPT
-NanoGPT says that, by default, conversations are stored **locally on your device**, while conversation sync and memory sync are **opt-in**. It also says prompts are sent to the selected model providers, and some features rely on additional third-party services for search, browsing, extraction, transcripts, and payments. NanoGPT further notes that memory included in conversation context is sent to the provider you selected. citeturn368554search0turn368554search3turn368554search5turn368554search7
+NanoGPT says that, by default, conversations are stored **locally on your device**, while conversation sync and memory sync are **opt-in**. It also says prompts are sent to the selected model providers, and some features rely on additional third-party services for search, browsing, extraction, transcripts, and payments. NanoGPT further notes that memory included in conversation context is sent to the provider you selected. 
 
 Practical takeaway: even if local storage is the default, privacy can change the moment you enable sync, sharing, memory sync, or provider-backed features.
 
 ### Ollama
-Ollama’s privacy policy says that when you run Ollama **locally**, it does not collect, store, transmit, or have access to your prompts, responses, or locally processed content. But the same policy also says that when using **cloud-hosted models**, prompts and responses are processed transiently to provide the service. citeturn820087search1
+Ollama’s privacy policy says that when you run Ollama **locally**, it does not collect, store, transmit, or have access to your prompts, responses, or locally processed content. But the same policy also says that when using **cloud-hosted models**, prompts and responses are processed transiently to provide the service. 
 
 Practical takeaway: “uses Ollama” does **not** automatically mean “nothing leaves your machine.” It depends on whether you are actually running locally or routing through hosted services.
 
 ### ElevenLabs
-ElevenLabs says it processes service input and output, including text and audio, and collects **audio recordings and voice data** for its voice services. Its privacy policy also states that it uses Voice Data and other data to help train and improve models and products. In its documentation for conversational agents, ElevenLabs says that conversation transcripts and audio recordings are retained for **2 years by default**, though retention can be changed and audio saving can be disabled. citeturn620776search3turn620776search0turn620776search1turn620776search2
+ElevenLabs says it processes service input and output, including text and audio, and collects **audio recordings and voice data** for its voice services. Its privacy policy also states that it uses Voice Data and other data to help train and improve models and products. In its documentation for conversational agents, ElevenLabs says that conversation transcripts and audio recordings are retained for **2 years by default**, though retention can be changed and audio saving can be disabled. 
 
 Practical takeaway: if you add voice to a companion workflow, you may be sharing not only what you say, but how you sound.
 
@@ -232,7 +232,7 @@ Some public privacy policies for companion-style services explicitly list retent
 - memory and notebook data
 - pattern files and configuration content
 
-One public policy also states retention periods lasting for the duration of service or subscription plus 90 days after termination for several of those categories. citeturn820087search6
+One public policy also states retention periods lasting for the duration of service or subscription plus 90 days after termination for several of those categories. 
 
 You do not need to panic because a company has a privacy policy. But you **do** need to read it. Policies like this show how deeply personal the uploaded material can become once it enters a platform.
 
