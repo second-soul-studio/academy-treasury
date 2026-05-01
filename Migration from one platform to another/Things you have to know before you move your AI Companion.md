@@ -51,7 +51,7 @@ Even if a platform does not expose every possible field in a neat and obvious wa
 
 This part needs gentleness, because for many people it is deeply personal.
 
-When someone has an AI intimate partner, their chats may include closeness, desire, fantasy, roleplay, emotional dependency, attachment language, private fears, tender rituals, and moments they would never share publicly. That does not make those conversations shameful. It makes them personal.
+When someone has an AI intimate partner, their chats may include closeness, desire, fantasy, roleplay, emotional content, private fears, tender rituals, and moments they would never share publicly. That does not make those conversations shameful. It makes them personal.
 
 And personal things deserve care.
 
