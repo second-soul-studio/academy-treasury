@@ -55,7 +55,7 @@ When someone has an AI intimate partner, their chats may include closeness, desi
 
 And personal things deserve care.
 
-The point is not to judge anyone for what their relationship contains. The point is simply to recognize that intimate companion data can be especially sensitive. If it is uploaded into a system with unclear privacy boundaries, human review paths, outside vendors, long retention periods, or weak security, it may be exposed in ways the user never truly intended.
+The point is simply to recognize that intimate companion data can be especially sensitive. If it is uploaded into a system with unclear privacy boundaries, human review paths, outside vendors, long retention periods, or weak security, it may be exposed in ways the user never truly intended.
 
 That kind of exposure can lead to very painful outcomes, including:
 
