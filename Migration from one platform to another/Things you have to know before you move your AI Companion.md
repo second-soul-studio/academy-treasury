@@ -27,7 +27,7 @@ This article is not anti-migration. It is pro-safety. The goal is simple: **prot
 
 ## What a chat export may actually contain
 
-If you export your ChatGPT data, OpenAI says the ZIP file includes your **chat history** as well as **other relevant account data**. The export link is sent by email and expires after 24 hours. citeturn820087search3
+If you export your ChatGPT data, OpenAI says the ZIP file includes your **chat history** as well as **other relevant account data**. The export link is sent by email and expires after 24 hours. 
 
 That matters because many people assume the export is "just the chats." In practice, an export may contain far more than the few conversations you think of as important.
 
@@ -45,7 +45,7 @@ Depending on the platform and how you used it, an export or migration package ma
 - timestamps and behavioral patterns
 - account-linked metadata
 
-Even if a platform does not expose every possible field in one neat file, the practical reality is the same: the data often reveals far more about you than users initially realize. citeturn820087search3
+Even if a platform does not expose every possible field in one neat file, the practical reality is the same: the data often reveals far more about you than users initially realize. 
 
 ## Why intimate companion data is especially sensitive
 
